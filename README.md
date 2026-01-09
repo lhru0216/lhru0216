@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lahiru Madhushanka</h1>
 <h3 align="center">I am a motivated undergraduate in Information Systems with a strong interest in technology, problem-solving, and continuous learning. I am currently developing skills in programming, data analysis, and web technologies. I am seeking opportunities to gain practical experience while contributing positively to organizational goals through dedication and adaptability.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhru0216&label=Profile%20views&color=0e75b6&style=flat" alt="lhru0216" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lhru0216" alt="lhru0216" /></a> </p>
 
@@ -25,4 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/lahirumadhushanka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://studio.buymeacoffee.com/lahirumadhushanka" /></a></p><br><br>
-
